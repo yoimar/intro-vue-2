@@ -1,4 +1,4 @@
-# introvue2
+# intro-vue-2
 
 I learn the fundamentals of Vue and build this product page
 
